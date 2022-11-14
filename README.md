@@ -9,3 +9,5 @@
  4. install github pull requests extension in VS Code
 
  5. push changes to the fork and send a pull request to merge changes
+
+ 6. run npm i to install packages
