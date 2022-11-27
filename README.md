@@ -47,3 +47,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
  5. push changes to the fork and send a pull request to merge changes
 
  6. run npm i to install packages
+>>>>>>> 42445261f0d1f744b95af3d9a7a5cd2afde58beb

@@ -3,6 +3,7 @@ const HomePage = () => {
     <div className="bg-green-300">
       hello world
       <p className="bg-black">hello world</p>
+      <p className="bg-black">hello world</p>      
     </div>
   )
 }
